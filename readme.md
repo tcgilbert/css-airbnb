@@ -1,0 +1,1 @@
+![Alt text](img/mock-up.png?raw=true "Sample Photo")
