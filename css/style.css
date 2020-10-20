@@ -1,3 +1,107 @@
+html {
+  font-family: 'Varela Round', sans-serif;
+  color: #555;
+  background: #eeeeee;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px gray;
+}
+
+main {
+  text-align: center;
+}
+
+button {
+  font-family: inherit;
+  color: inherit;
+  background-color: #fff;
+  padding: 5px 30px;
+  border: lightgray solid 1px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+
 h1 {
-  color: salmon;
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 2px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding: 5px;
+  position: relative;
+}
+
+#london {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 40%;
+  left: 27%;
+  color: white;
+  font-size: 34px;
+}
+
+#newyork {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 40%;
+  left: 21%;
+  color: white;
+  font-size: 34px;
+}
+
+#sanfran {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 40%;
+  left: 7%;
+  color: white;
+  font-size: 34px;
+}
+
+#sanfran2 {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 42%;
+  left: 7%;
+  color: white;
+  font-size: 34px;
+}
+
+#napa {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 42%;
+  left: 35%;
+  color: white;
+  font-size: 34px;
+}
+
+#sonoma {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 42%;
+  left: 25%;
+  color: white;
+  font-size: 34px;
 }
