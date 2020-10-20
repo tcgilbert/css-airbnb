@@ -46,62 +46,40 @@ p {
   position: relative;
 }
 
-#london {
-  margin: 0;
-  padding: 0;
+.label {
   position: absolute;
-  top: 40%;
-  left: 27%;
   color: white;
   font-size: 34px;
+  margin: 0;
+  padding: 0;
+}
+
+#london {
+  top: 40%;
+  left: 27%;
 }
 
 #newyork {
-  margin: 0;
-  padding: 0;
-  position: absolute;
   top: 40%;
   left: 21%;
-  color: white;
-  font-size: 34px;
 }
 
 #sanfran {
-  margin: 0;
-  padding: 0;
-  position: absolute;
   top: 40%;
   left: 7%;
-  color: white;
-  font-size: 34px;
 }
 
 #sanfran2 {
-  margin: 0;
-  padding: 0;
-  position: absolute;
   top: 42%;
   left: 7%;
-  color: white;
-  font-size: 34px;
 }
 
 #napa {
-  margin: 0;
-  padding: 0;
-  position: absolute;
   top: 42%;
   left: 35%;
-  color: white;
-  font-size: 34px;
 }
 
 #sonoma {
-  margin: 0;
-  padding: 0;
-  position: absolute;
   top: 42%;
   left: 25%;
-  color: white;
-  font-size: 34px;
 }
